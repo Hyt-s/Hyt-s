@@ -54,8 +54,6 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="55"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/jira.svg" alt="jira" height="35"/> </a> 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" height="30"/> </a> 
 
 ---
 ## 📈 Statistics
