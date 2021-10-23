@@ -62,6 +62,7 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Hyt-s&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyt-s&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Hyt-s" frameborder="0"></iframe>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyt-s&theme=tokyonight)
+
 
 ---
