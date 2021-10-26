@@ -31,7 +31,7 @@
 <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="55" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="55" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="55"/> </a>
-<a href="#" target="_blank"> <img src="https://mui.com/static/logo_raw.svg" alt="material-ui" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="55"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/> </a> 
 
 
