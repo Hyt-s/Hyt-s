@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 Contributes Open Source projects.
 - ✍ Believes in the importance of learning new things every day.
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, Bootstrap, React, Django **
+- 💬 Ask me about **Python, Django, JavaScript, React HTML, CSS... **
 - ✨ Please look into my repos, don't avoid to give me advice.
 
 ---
