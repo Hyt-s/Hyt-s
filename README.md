@@ -3,7 +3,7 @@
 
 ## I'm a Full Stack Developer
 
-- 🌱 I’m currently improving skills on full-stack development ( JavaScript | React | Python | Django)
+- 🌱 I’m currently improving skills on full-stack development (Python | Django | JavaScript | React)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 Contributes Open Source projects.
 - ✍ Believes in the importance of learning new things every day.
