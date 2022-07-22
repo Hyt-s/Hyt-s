@@ -1,7 +1,7 @@
 ### Hello, I'm Hayati 👋
 
 
-## I'm a Full Stack Developer and Lifelong Learner!
+## I'm a Full Stack Developer
 
 - 🌱 I’m currently improving skills on full-stack development ( JavaScript | React | Python | Django)
 - 👯 I’m looking to collaborate with other developers.
